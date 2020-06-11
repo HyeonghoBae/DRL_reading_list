@@ -1,6 +1,6 @@
 # DRL_reading_list
 
-#Paper
+# Paper
 ---
 
 Deep reinforcement learning reading list
@@ -9,7 +9,7 @@ Deep reinforcement learning reading list
 *  Hausknecht, Matthew, and Peter Stone. "Deep recurrent q-learning for partially observable mdps." 2015 AAAI Fall Symposium Series. 2015.
 
 
-#Book
+# Book
 ---
 
 *  단단한 강화학습
