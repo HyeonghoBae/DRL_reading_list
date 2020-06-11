@@ -1,7 +1,7 @@
 # DRL_reading_list
+---
 
 # Paper
----
 
 Deep reinforcement learning reading list
 
@@ -10,7 +10,6 @@ Deep reinforcement learning reading list
 
 
 # Book
----
 
 *  단단한 강화학습
 *  Reinforcement Learning: An Introduction
